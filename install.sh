@@ -33,8 +33,6 @@ bash full-ngrok.sh
  printf $green
 echo "Ngrok instalado correctamente!!"
  printf $blue
-
-echo "Ingresa tu key"
 echo "Inicia ngrok"
 printf $reset
 
