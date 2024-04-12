@@ -38,7 +38,7 @@
 * ``apt update -y``
 * ``apt upgrade -y``
 * ``apt install git -y``
-* ``https://github.com/venom-24/Tunel-ngrok.git``
+* ``git clone https://github.com/venom-24/Tunel-ngrok.git``
 * ``cd Tunel-ngrok;ls``
 * ``chmod +x *;ls``
 * ``bash install.sh``
