@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-<img title="Hecho en mexico" src="https://img.shields.io/badge/Code-Termux Login-blue.svg">
+<img title="Hecho en mexico" src="https://img.shields.io/badge/Code-Tunel ngrok-blue.svg">
 <img title="Hecho en mexico2" src="https://img.shields.io/badge/Version-1.0-blue.svg">
 <img title="Hecho en mexico3" src="https://img.shields.io/badge/Escrito En-Bash-blue.svg">
 </p>
 
 <p align="center">
-<img width="80%" src="https://ibb.co/5B1Gz9F">
-</p>
+<img width="80%" src="https://i.ibb.co/MMgZjh6/IMG-20240407-162143.png"> </p> 
 
 <p align="center">
 <a href=https://github.com/venom-24><img title="github" src="https://img.shields.io/badge/VENOM-24-brightgreen?style=for-the-badge&logo=github"></a>
@@ -32,28 +31,23 @@
 * TERMUX
 ### Requerimientos :
 * Conexion a internet
-* 520 MB De Almacenamiento 
+* 100 MB De Almacenamiento 
 
 ## COMANDOS DE INSTALACION EN TERMUX:
 
 * ``apt update -y``
 * ``apt upgrade -y``
 * ``apt install git -y``
-* ``git clone https://github.com/venom-24/Termux_Login.git``
-* ``cd Termux_Login;ls``
+* ``https://github.com/venom-24/Tunel-ngrok.git``
+* ``cd Tunel-ngrok;ls``
 * ``chmod +x *;ls``
-* ``bash setup.sh``
-* ``IMPORTANTE: el password por defecto es: 2468``
-* ``IMPORTANTE: el nickname de recuperacion de password es: venom24`` 
-
-## screenshot
-<br>
-<p align="center">
-<img width="50%" src="https://i.ibb.co/PZRvpgn/Sin-t-tulo67.png"/>
-<img width="48%" src="https://i.ibb.co/vk27c05/Sin-t-tulo66.png"/>
-<a href="https://m.youtube.com/playlist?list=PLpscnM9CpYLgI-lwRd-Nyw1uq98KmkPA2"><img width="80%" src="https://i.ibb.co/xzWwJ1x/Sin-t-tulo68.png" </a>
-</p>
-
+* ``bash install.sh``
+* ``Al finalizar el script de install.sh
+Colocan el siguiente comando, seguido del authtoken que les brinda la página de ngrok 
+Ejemplo:``
+* ``ngrok authtoken 2emoUxCOyAHXkVKSAWWkvV7dsX5_6Q7HbPS6EzrXMZfsSGfh4``
+* ``En seguida escriben lo siguiente``
+* ``ngrok http 4545`` 
 ## CONECTATE CON NOSOTROS:
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
 <a href="https://youtube.com/playlist?list=PLpscnM9CpYLgI-lwRd-Nyw1uq98KmkPA2"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube">
